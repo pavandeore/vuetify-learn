@@ -27,6 +27,7 @@ export default {
   margin:0;
   padding:0;
   font-family: verdana;
+  cursor: url('./assets/beer.png'), auto;
 }
 #beer-wraper > div{
   justify-content: center;
